@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "c5034c64b1d792fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "05a201c80f7311a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9dc86f9131540ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_IT/Тестирование/00_Фундаментальная теория тестирования/01_Основные понятия.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc0adbec0b9a026d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_IT/Тестирование/Собеседования/Вопросы и ответы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "46192c1c2cfe638c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdbaa4d15df02976",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d789c33b2653710",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "41429377261159b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Тестирование",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6ed7774f11a58623",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5cb33087cc3099d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "1752956e0551e1eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69e177f97d6d48a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00_IT/Тестирование/00_Фундаментальная теория тестирования/01_Основные понятия.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "ГУЛЯТЬ",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "8395bd3d9ce642a4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00_IT/Тестирование/00_Фундаментальная теория тестирования/01_Основные понятия.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "75c4c54e7a1cd214",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ed26ec2b6b91dc00",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00_IT/Тестирование/00_Фундаментальная теория тестирования/01_Основные понятия.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "1d789c33b2653710",
+  "lastOpenFiles": [
+    "00_IT/000_Все определения.md",
+    "00_IT/Тестирование/00_Фундаментальная теория тестирования/01_Основные понятия.md",
+    "00_IT/Тестирование/Собеседования/Вопросы и ответы.md",
+    "00_IT/Kanban/Глобальные задачи.md",
+    "00_IT/Тестирование/Собеседования",
+    "00_IT/Тестирование/00_Фундаментальная теория тестирования/04_.md",
+    "00_IT/Тестирование/00_Фундаментальная теория тестирования/04_",
+    "00_IT/Kanban",
+    "00_IT/Тестирование/00_Фундаментальная теория тестирования/Untitled Kanban 1.md",
+    "00_IT/Тестирование/00_Фундаментальная теория тестирования/03_Принципы тестирования.md",
+    "00_IT/Тестирование/00_Фундаментальная теория тестирования/02_Цели тестирования.md",
+    "00_IT/Тестирование/00_Фундаментальная теория тестирования",
+    "Excalidraw/Drawing 2024-04-14 13.15.53.excalidraw.md",
+    "00_IT/Тестирование",
+    "Image",
+    "Media",
+    "Первый файл.md",
+    "второй файл.md",
+    "xdscv.md",
+    "Excalidraw/Drawing 2024-04-14 13.16.08.excalidraw.md",
+    "Excalidraw",
+    "IT/Welcome.md",
+    "00_IT"
+  ]
+}
